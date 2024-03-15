@@ -6,8 +6,8 @@ body {
 }
 
 .logo {
-  width: 928px;
-  height: 480px;
+  width: 838px;
+  height: 430px;
   background: url("../images/header-bg2.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -68,7 +68,7 @@ body {
 .v1_43 {
   width: 928px;
   height: 480px;
-  margin: 32px;
+  margin: 12px;
   opacity: 1;
   position: absolute;
   top: 16px;
@@ -112,23 +112,13 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_52 {
-  width: 848px;
-  height: 48px;
-  opacity: 1;
-  position: absolute;
-  top: 392px;
-  left: 40px;
-  overflow: hidden;
-}
 .v1_57 {
   width: 960px;
   height: 427px;
   opacity: 1;
   position: absolute;
-  top: 512px;
+  top: 412px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_58 {
   width: 960px;
@@ -139,7 +129,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_59 {
   width: 928px;
@@ -149,7 +138,6 @@ body {
   position: absolute;
   top: 00px;
   left: 16px;
-  overflow: hidden;
 }
 .v1_60 {
   width: 720px;
@@ -159,7 +147,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_61 {
   width: 720px;
@@ -168,7 +155,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_62 {
   width: 720px;
@@ -177,7 +163,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_63 {
   width: 627px;
@@ -227,14 +212,13 @@ body {
   margin: 12px;
   opacity: 1;
   position: absolute;
-  top: 189px;
+  top: 159px;
   left: 16px;
-  overflow: hidden;
 }
-.v1_68 {
+.step1 {
   width: 223px;
   height: 198px;
-  background: rgba(255,255,255,1);
+  background: url("../images/linnuke.png");
   padding: 16px 16px;
   margin: 12px;
   opacity: 1;
@@ -245,9 +229,8 @@ body {
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  overflow: hidden;
 }
-.v1_69 {
+.step1-header {
   width: 189px;
   height: 24px;
   opacity: 1;
@@ -268,7 +251,6 @@ body {
 .v1_71 {
   width: 24px;
   height: 24px;
-  background: rgba(28,28,33,1);
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -283,15 +265,12 @@ body {
   left: 187px;
   overflow: hidden;
 }
-.v1_73 {
-  width: 189px;
-  height: 66px;
+.step1-text {
   margin: 4px;
   opacity: 1;
   position: absolute;
   top: 52px;
   left: 16px;
-  overflow: hidden;
 }
 .v1_74 {
   width: 189px;
@@ -324,22 +303,16 @@ body {
   text-align: left;
 }
 .v1_77 {
-  width: 189px;
-  height: 42px;
   opacity: 1;
   position: absolute;
-  top: 24px;
+  top: 44px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_78 {
-  width: 189px;
-  height: 21px;
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_79 {
   width: 176px;
@@ -353,10 +326,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_80 {
+.step2 {
   width: 223px;
   height: 198px;
-  background: rgba(255,255,255,1);
+  background: url("../images/linnuke.png");
   padding: 16px 16px;
   margin: 12px;
   opacity: 1;
@@ -367,7 +340,6 @@ body {
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  overflow: hidden;
 }
 .v1_81 {
   width: 189px;
@@ -387,15 +359,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_83 {
-  width: 24px;
-  height: 24px;
-  background: rgba(28,28,33,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
+
 .v1_84 {
   width: 16px;
   height: 19px;
@@ -407,7 +371,7 @@ body {
 }
 .v1_85 {
   width: 189px;
-  height: 87px;
+  height: 107px;
   margin: 4px;
   opacity: 1;
   position: absolute;
@@ -417,7 +381,7 @@ body {
 }
 .v1_86 {
   width: 189px;
-  height: 20px;
+  height: 40px;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -449,18 +413,16 @@ body {
   height: 63px;
   opacity: 1;
   position: absolute;
-  top: 24px;
+  top: 44px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_90 {
   width: 189px;
-  height: 21px;
+  height: 41px;
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_91 {
   width: 188px;
@@ -474,10 +436,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_92 {
+.step3 {
   width: 223px;
   height: 198px;
-  background: rgba(255,255,255,1);
+  background: url("../images/linnuke.png");
   padding: 16px 16px;
   margin: 12px;
   opacity: 1;
@@ -488,7 +450,6 @@ body {
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  overflow: hidden;
 }
 .v1_93 {
   width: 189px;
@@ -507,15 +468,6 @@ body {
   top: 0px;
   left: 0px;
   overflow: hidden;
-}
-.v1_95 {
-  width: 24px;
-  height: 24px;
-  background: rgba(28,28,33,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
 }
 .v1_96 {
   width: 16px;
@@ -582,132 +534,9 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_103 {
   width: 167px;
-  color: rgba(61,63,73,1);
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  font-family: Work Sans;
-  font-weight: Regular;
-  font-size: 14px;
-  opacity: 1;
-  text-align: left;
-}
-.v1_104 {
-  width: 223px;
-  height: 198px;
-  background: rgba(255,255,255,1);
-  padding: 16px 16px;
-  margin: 12px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 705px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-  overflow: hidden;
-}
-.v1_105 {
-  width: 189px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  overflow: hidden;
-}
-.v1_106 {
-  width: 24px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_107 {
-  width: 24px;
-  height: 24px;
-  background: rgba(28,28,33,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
-.v1_108 {
-  width: 16px;
-  height: 19px;
-  opacity: 1;
-  position: absolute;
-  top: 797px;
-  left: 892px;
-  overflow: hidden;
-}
-.v1_109 {
-  width: 189px;
-  height: 128px;
-  margin: 4px;
-  opacity: 1;
-  position: absolute;
-  top: 52px;
-  left: 16px;
-  overflow: hidden;
-}
-.v1_110 {
-  width: 189px;
-  height: 40px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_111 {
-  width: 189px;
-  height: 20px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_112 {
-  width: 170px;
-  color: rgba(28,28,33,1);
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  font-family: Work Sans;
-  font-weight: Bold;
-  font-size: 16px;
-  opacity: 1;
-  text-align: left;
-}
-.v1_113 {
-  width: 189px;
-  height: 84px;
-  opacity: 1;
-  position: absolute;
-  top: 44px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_114 {
-  width: 189px;
-  height: 21px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_115 {
-  width: 180px;
   color: rgba(61,63,73,1);
   position: absolute;
   top: 0px;
@@ -724,7 +553,7 @@ body {
   height: 200px;
   opacity: 1;
   position: absolute;
-  top: 921px;
+  top: 871px;
   left: 0px;
   overflow: hidden;
 }
@@ -750,101 +579,34 @@ body {
 }
 .v1_179 {
   width: 920px;
-  height: 24px;
+  height: 64px;
   margin: 24px;
   opacity: 1;
   position: absolute;
   top: 40px;
   left: 20px;
   overflow: hidden;
+  font-weight: Regular;
+  font-size: 16px;
+  color: rgba(61,63,73,1);
+  font-family: Work Sans;
 }
 .v1_180 {
-  width: 160px;
-  height: 24px;
+  width: 260px;
+  height: 64px;
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 65px;
-  overflow: hidden;
-}
-.v1_181 {
-  width: 160px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_182 {
-  width: 71px;
-  color: rgba(61,63,73,1);
-  position: absolute;
-  top: 0px;
-  left: 44px;
-  font-family: Work Sans;
-  font-weight: Regular;
-  font-size: 16px;
-  opacity: 1;
-  text-align: center;
+  overflow: visible;
 }
 .v1_183 {
-  width: 160px;
-  height: 24px;
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 380px;
-  overflow: hidden;
 }
-.v1_184 {
-  width: 160px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_185 {
-  width: 86px;
+
+a {
   color: rgba(61,63,73,1);
-  position: absolute;
-  top: 0px;
-  left: 36px;
-  font-family: Work Sans;
-  font-weight: Regular;
-  font-size: 16px;
-  opacity: 1;
-  text-align: center;
-}
-.v1_186 {
-  width: 160px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 695px;
-  overflow: hidden;
-}
-.v1_187 {
-  width: 160px;
-  height: 24px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v1_188 {
-  width: 62px;
-  color: rgba(61,63,73,1);
-  position: absolute;
-  top: 0px;
-  left: 48px;
-  font-family: Work Sans;
-  font-weight: Regular;
-  font-size: 16px;
-  opacity: 1;
-  text-align: center;
 }

@@ -172,7 +172,7 @@ body {
   left: 0px;
   font-family: Work Sans;
   font-weight: Black;
-  font-size: 36px;
+  font-size: 28px;
   opacity: 1;
   text-align: left;
 }
@@ -279,7 +279,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_75 {
   width: 189px;
@@ -288,7 +287,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  overflow: hidden;
 }
 .v1_76 {
   width: 168px;
@@ -322,7 +320,7 @@ body {
   left: 0px;
   font-family: Work Sans;
   font-weight: Regular;
-  font-size: 14px;
+  font-size: 15px;
   opacity: 1;
   text-align: left;
 }
@@ -377,11 +375,10 @@ body {
   position: absolute;
   top: 52px;
   left: 16px;
-  overflow: hidden;
 }
 .v1_86 {
   width: 189px;
-  height: 40px;
+  height: 60px;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -418,7 +415,7 @@ body {
 }
 .v1_90 {
   width: 189px;
-  height: 41px;
+  height: 61px;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -432,7 +429,7 @@ body {
   left: 0px;
   font-family: Work Sans;
   font-weight: Regular;
-  font-size: 14px;
+  font-size: 15px;
   opacity: 1;
   text-align: left;
 }
@@ -543,7 +540,7 @@ body {
   left: 0px;
   font-family: Work Sans;
   font-weight: Regular;
-  font-size: 14px;
+  font-size: 15px;
   opacity: 1;
   text-align: left;
 }
